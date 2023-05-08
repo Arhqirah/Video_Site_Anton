@@ -138,6 +138,7 @@ video {
     grid-column: 2;
     grid-row: 2;
     margin-left: -15%;
+    margin-bottom: 5%;
   }
 
   .gallery_img {
