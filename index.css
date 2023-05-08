@@ -69,7 +69,7 @@ a {
   font-size: 1.5rem;
 }
 a:hover {
-  color: black;
+  color: rgb(104, 104, 104);
 }
 
 .active {
